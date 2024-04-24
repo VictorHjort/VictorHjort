@@ -5,3 +5,5 @@
 
 - 🏫 I study Medioligy at Aalborg University Copenhagen
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorHjort)](https://github.com/anuraghazra/github-readme-stats)
+
